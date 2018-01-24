@@ -1,5 +1,5 @@
 <p align="center">
-![Valle Sistemas Corporatipos](assets/valle-logo.png)
+  <img src="assets/valle-logo.png" alt="Valle Sistemas Corporativos">
 </p>
 
 # Vagas
